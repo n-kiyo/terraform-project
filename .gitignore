@@ -1,0 +1,4 @@
+envs/dev/.terraform
+.idea
+*.tfstate*
+*.terraform*
